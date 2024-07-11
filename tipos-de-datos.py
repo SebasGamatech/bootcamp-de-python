@@ -4,7 +4,7 @@
 '''string'''
 """tus datos son
     Nombre: Oscar
-    Apellido: Galvis"""
+    Apellido: Guerra"""
 #Tipos de datos numéricos
 4 #Tipo de dato entero
 4.5 #Tipo de dato flotante
