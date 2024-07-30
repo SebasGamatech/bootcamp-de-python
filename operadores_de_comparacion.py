@@ -37,7 +37,7 @@ contrasena_almacenada = "123456"
 contrasena_escrita = '123456'
 print(contrasena_almacenada == contrasena_escrita) #True
 
-ontrasena_almacenada = "123456"
+contrasena_almacenada = "123456"
 contrasena_escrita = '''123456'''
 print(contrasena_almacenada == contrasena_escrita) #True
 
